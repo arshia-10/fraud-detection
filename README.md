@@ -6,7 +6,6 @@ A machine learning project focused on detecting fraudulent credit card transacti
 📌 Project Overview
 Credit card fraud causes billions of dollars in losses every year. This project aims to:
 
-
 Analyze real-world transaction data
 
 
