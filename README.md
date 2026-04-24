@@ -12,7 +12,7 @@ Analyze real-world transaction data
 Perform data cleaning and preprocessing
 
 
-Conduct exploratory data analysis (EDA)
+Conduct exploratory data analysis (EDA)    
 
 
 Prepare data for fraud detection models
